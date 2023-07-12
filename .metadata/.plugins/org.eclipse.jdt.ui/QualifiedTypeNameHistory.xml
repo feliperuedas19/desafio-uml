@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="telefonico.Telefonico"/>
+    <fullyQualifiedTypeName name="reprodutor.Reprodutor"/>
+    <fullyQualifiedTypeName name="navegador.ExibirPagina"/>
+    <fullyQualifiedTypeName name="navegador.Navegador"/>
+    <fullyQualifiedTypeName name="dispositivo.Iphone"/>
+    <fullyQualifiedTypeName name="navegador.AtualizarPagina"/>
+</qualifiedTypeNameHistroy>

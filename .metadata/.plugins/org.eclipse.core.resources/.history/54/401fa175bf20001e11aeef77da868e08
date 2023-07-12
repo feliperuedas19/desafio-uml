@@ -1,0 +1,61 @@
+package dispositivo;
+
+import navegador.Navegador;
+import reprodutor.Reprodutor;
+import telefonico.Telefonico;
+
+public class Iphone implements Reprodutor, Telefonico, Navegador {
+
+	@Override
+	public void atualizarPagina() {		
+	}
+
+	@Override
+	public void adicionarAba() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void exibirPagina() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void atender() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void ligar() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void inciarCorreioVoz() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void tocar() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void selecionarMusica() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void pausar() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}

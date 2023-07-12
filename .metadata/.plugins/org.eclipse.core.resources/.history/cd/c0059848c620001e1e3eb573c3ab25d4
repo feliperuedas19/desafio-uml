@@ -1,0 +1,19 @@
+package navegador;
+
+public class AtualizarPagina implements Navegador{
+	public void atualizarPagina() {
+		
+	}
+
+	@Override
+	public void adicionarAba() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void exibirPagina() {
+		// TODO Auto-generated method stub
+		
+	}
+}

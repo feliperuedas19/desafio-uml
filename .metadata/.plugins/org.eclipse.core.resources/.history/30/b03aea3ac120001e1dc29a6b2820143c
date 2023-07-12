@@ -1,0 +1,16 @@
+package usuarioFinal;
+
+import dispositivo.Iphone;
+import navegador.ExibirPagina;
+import navegador.Navegador;
+
+public class CelularPessoa {
+	public static void main(String[] args) {
+		
+		ExibirPagina exibir = new ExibirPagina();
+		
+		Navegador navegador = exibir;
+		
+		navegador.atualizarPagina();
+	}
+}

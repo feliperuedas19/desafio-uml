@@ -1,0 +1,7 @@
+package navegador;
+
+public class ExibirPagina {
+	public void exibirPagina() {
+		System.out.println("EXIBINDO PAGINA");
+	}
+}
